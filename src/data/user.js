@@ -8,74 +8,71 @@ const INFO = {
 
 	socials: {
 		github: "https://github.com/aliceyuhehu",
-		linkedin: "https://linkedin.com/aliceh7",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		linkedin: "https://linkedin.com/in/aliceh7",
 	},
 
 	homepage: {
 		title: "Yuhe (Alice) Hu",
 		description:
-			"Electrical/Computer Engineering & Computer Science student at Duke University with an interest in clean & responsible software.",
+			"Hi! I am a Electrical Engineering & Computer Science student at Duke University with an interest in clean & responsible software. Currently working on https://edible-wild-plants.vercel.app/",
 	},
 
 	about: {
-		title: "Hi! I’m Yuhe (Alice) Hu, an Electrical/Computer Engineering student at Duke University.",
+		title: "Hi! I’m Yuhe (Alice) Hu.",
 		description:
-			"Computer Science student at Duke University with an interest in clean & responsible software.",
+			"I am a Electrical Engineering & Computer Science student at Duke University with an interest in clean & responsible software.",
 	},
 
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-	},
+	
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "AI-Enhanced CS Educator",
+			description: [
+			  "Interactive CS Textbook featuring ",
+			  " customized AI tutor (GPT 3.5 model),",
+			  " student chat & threads,",
+			  " leaderboard "
+			],
+			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207",
+			linkText: "View Demo",
+			link: "https://new-apt-website.vercel.app/contents",
+		  },
+
+		{
+			title: "Earth Garden",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"Fun interactive game where users can track their environmental actions by growing a digital garden.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png",
+			linkText: "View Demo",
+			link: "https://earthguarden.netlify.app/",
 		},
 
 		{
-			title: "Project 2",
+			title: "AI Finance ChatBot (from Google x MongoDB Hackathon)",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Uses MongoDB, Google Vertex AI to provide personalized financial advice based on real-time updates on latest tech news.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
+			linkText: "Coming Soon! (Work in Progress)",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 3",
+			title: "One Task at a Time",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Productivity Chome Extension that keeps users on task by recording current task. Color customizable.",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1200px-Google_Chrome_icon_%28February_2022%29.svg.png?20230222190059",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://chrome.google.com/webstore/detail/one-task-at-a-time/kcaifdbfmbhjocfdhcghbkbafogpnppd",
 		},
 
 		{
-			title: "Project 4",
+			title: "Breakout Ball Game",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Java singleplayer console game, where the player must use a digital paddle to launch a moving ball and destroy a layer of bricks that line the top third of the screen.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "View Demo",
+			link: "https://www.youtube.com/watch?v=nqMGdmEhsQk",
 		},
 	],
 };

@@ -5,7 +5,7 @@ import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
 import Logo from "../components/common/logo";
 import Socials from "../components/about/socials";
-
+import Works from "../components/homepage/works";
 import INFO from "../data/user";
 import SEO from "../data/seo";
 
@@ -36,7 +36,11 @@ const About = () => {
 						<div className="about-logo">
 							<Logo width={46} />
 						</div>
+
+						
 					</div>
+
+					
 
 					<div className="about-container">
 						<div className="about-main">
@@ -47,8 +51,16 @@ const About = () => {
 
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
+									<div className="homepage-works">
+										<Works />
+									</div>
 								</div>
+
+								
+								
 							</div>
+
+							
 
 							<div className="about-left-side">
 								<div className="about-image-container">
