@@ -51,7 +51,7 @@ const INFO = {
 		{
 			title: "AI Finance ChatBot (from Google x MongoDB Hackathon)",
 			description:
-				"Uses MongoDB, Google Vertex AI to provide personalized financial advice based on real-time updates on latest tech news.",
+				"ChatBot that built with MongoDB, Google Vertex AI to provide personalized financial advice based on real-time updates on latest tech news.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "Coming Soon! (Work in Progress)",
 			link: "https://github.com",
