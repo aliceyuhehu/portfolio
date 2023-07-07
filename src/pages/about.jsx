@@ -66,7 +66,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="me.jpg"
+											src="homepage.jpg"
 											alt="about"
 											className="about-image"
 										/>
