@@ -40,6 +40,16 @@ const INFO = {
 		  },
 
 		{
+			title: "AI Finance ChatBot (Google x MongoDB Hackathon)",
+			description:
+				"ChatBot built with MongoDB, Google Vertex AI to provide personalized financial advice based on real-time updates on latest tech news.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Demo + Video!",
+			link: "https://www.youtube.com/watch?v=CNNuMATRmmM&ab_channel=A.H.",
+		},
+
+
+		{
 			title: "Earth Garden",
 			description:
 				"Fun interactive game where users can track their environmental actions by growing a digital garden.",
@@ -48,14 +58,7 @@ const INFO = {
 			link: "https://earthguarden.netlify.app/",
 		},
 
-		{
-			title: "AI Finance ChatBot (from Google x MongoDB Hackathon)",
-			description:
-				"ChatBot built with MongoDB, Google Vertex AI to provide personalized financial advice based on real-time updates on latest tech news.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "Coming Soon! (Work in Progress)",
-			link: "https://github.com",
-		},
+		
 
 		{
 			title: "One Task at a Time",
