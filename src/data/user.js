@@ -14,7 +14,7 @@ const INFO = {
 	homepage: {
 		title: "Yuhe (Alice) Hu",
 		description:
-			"Hi! I am a Electrical Engineering & Computer Science student at Duke University with an interest in clean & responsible software. Currently working on https://edible-wild-plants.vercel.app/",
+			"Hi! I am a Electrical Engineering & Computer Science student at Duke University passionate about sustainable software development! ",
 	},
 
 	about: {
@@ -50,23 +50,23 @@ const INFO = {
 
 
 		{
-			title: "Earth Garden",
+			title: "Plant Garden",
 			description:
-				"Fun interactive game where users can track their environmental actions by growing a digital garden.",
+				"Fun coding game where users can track their environmental actions by growing a digital garden.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png",
-			linkText: "View Demo",
-			link: "https://earthguarden.netlify.app/",
+			linkText: "Demo - Coming Soon!",
+			link: "",
 		},
 
 		
 
 		{
-			title: "One Task at a Time",
+			title: "Productivity Manager",
 			description:
-				"Productivity Chome Extension that keeps users on task by recording current task. Color customizable.",
+				"To-Do Chome Extension that keeps users on task by recording current task. Color customizable.",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1200px-Google_Chrome_icon_%28February_2022%29.svg.png?20230222190059",
 			linkText: "View Project",
-			link: "https://chrome.google.com/webstore/detail/one-task-at-a-time/kcaifdbfmbhjocfdhcghbkbafogpnppd",
+			link: "https://chrome.google.com/webstore/",
 		},
 
 		{
